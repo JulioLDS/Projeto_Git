@@ -5,3 +5,5 @@ while n>0:
         fat = fat*n
         n-=1
 print(f"{fat} é o fatorial de {num}")
+
+#alterações feitas no github
